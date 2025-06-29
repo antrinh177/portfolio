@@ -29,8 +29,8 @@ const projects = [
     title: "Portfolio",
     description: "A personal portfolio highlights my projects, skills, and background with smooth animations and a clean, responsive design.",
     image: "/assets/work/portfolio.png",
-    link: "",
-    github: "",
+    link: "https://portfolio-delta-weld-16.vercel.app/",
+    github: "https://github.com/antrinh177/portfolio",
     tech: ["Next.js", "React", "Tailwind CSS", "Framer Motion", "Shadcn UI"]
   }
 ]
